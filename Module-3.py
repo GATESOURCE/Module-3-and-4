@@ -4,4 +4,7 @@ def area(r):
     A = np.pi*(r**2)
     return A
 
-print(area(5))
+def perimeter(r):
+    P = 2*np.pi*r
+    return P
+print(area(5),perimeter(5))
