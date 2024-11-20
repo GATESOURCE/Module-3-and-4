@@ -10,3 +10,4 @@ def perimeter(r):
 print(area(5),perimeter(5))
 
 print("I hate [redacted]")
+print("efiueshfisuefhiseufhsifuhsieufh")
