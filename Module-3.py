@@ -7,7 +7,7 @@ def area(r):
 def perimeter(r):
     P = 2*np.pi*r
     return P
-print(area(5),perimeter(5))
+print(area(5),perimeter(5   ))
 
 print("I hate [redacted]")
 print("efiueshfisuefhiseufhsifuhsieufh")
